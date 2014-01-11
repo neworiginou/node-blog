@@ -29,6 +29,6 @@ http://127.0.0.1:3000
 
 Then press enter, you'll see a list of the markdown files.
 
-### Easy public
+### Easy publish
 
 You just need copy the markdown file into the markdown directory on your server. You can scan via the web browser.
