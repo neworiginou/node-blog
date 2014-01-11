@@ -4,28 +4,28 @@
 
 Install node-blog:
 
-	```
-	git clone git@github.com:mailzwj/node-blog.git
-	```
+```
+git clone git@github.com:mailzwj/node-blog.git
+```
 
 Install the npm packages:
 
-	```
-	cd node-blog
-	npm install
-	```
+```
+cd node-blog
+npm install
+```
 
 Running the system:
 
-	```
-	node server.js
-	```
+```
+node server.js
+```
 
 Now open the browser, and type in the host address:
 
-	```
-	http://127.0.0.1:3000
-	```
+```
+http://127.0.0.1:3000
+```
 
 Then press enter, you'll see a list of the markdown files.
 
