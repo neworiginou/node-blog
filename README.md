@@ -31,4 +31,4 @@ Then press enter, you'll see a list of the markdown files.
 
 ### Easy publish
 
-You just need copy the markdown file into the markdown directory on your server. You can scan via the web browser.
+You just need copy the markdown file into the markdown directory on your server. You can view via the web browser.
